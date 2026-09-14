@@ -7,7 +7,7 @@
 - [Do/Don'ts](do-donts.md)
 - [Таблица успеваемости/очередей](https://docs.google.com/spreadsheets/d/1zKa_Es0a_3Wgpy3pjHXZTazAM5skB0nKWPrEmpFCVYQ/edit?gid=0#gid=0)
 - [Обратная связь/Issues/Дискуссии](https://github.com/orgs/algo-2026-autumn/discussions) не забудьте прочитать [правила](https://github.com/algo-2026-autumn/suggestions-and-requests)
-- [Академ разница](https://github.com/algo-2026-autumn/.github/edit/main/profile/README.md)
+- [Академ разница](https://github.com/algo-2026-autumn/.github/blob/main/profile/README.md)
 
 ## Гайды
 - [Как проходит защита](guides/asap-student-guide.md)
