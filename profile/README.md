@@ -21,7 +21,14 @@
 - [#3.2 ASAP](https://disk.yandex.ru/i/PvEHeDGe3qHVNA)
 
 ## Лекции
-### Тут будут записи лекций
+
+[Таблица](https://docs.google.com/spreadsheets/d/1AhOwX8czbv8TFgcAmgL15xCg3JVVWYvz-lUTte6Kxlw/edit?usp=sharing) с доп. баллами.
+
+Презентации и лекции:
+- [Презентация №1 — Вводная](https://docs.google.com/presentation/d/121Og5d7W-JmFSMLGFWAUaWpGqewn53JoXZYRW30Evu8/edit?usp=sharing). Видео: поток 1, поток 2, поток 3.
+- [Презентация №2 — Компилятор](https://docs.google.com/presentation/d/13vybc88mDnOcXRtAnJkH7KGljDby_d4j9uEsRlpxa0g/edit?usp=sharing). Видео: поток 1, поток 2, поток 3.
+- [Презентация №3 — Основы C](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing). Видео: поток 1, поток 2, поток 3.
+- [Презентация №4 — Тесты](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing). Видео: поток 1, поток 2, поток 3.
 
 ## Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 ### Сlone не работает с паролем
