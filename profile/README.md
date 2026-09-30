@@ -25,10 +25,11 @@
 [Таблица](https://docs.google.com/spreadsheets/d/1AhOwX8czbv8TFgcAmgL15xCg3JVVWYvz-lUTte6Kxlw/edit?usp=sharing) с доп. баллами.
 
 Презентации и лекции:
-- [Презентация №1 — Вводная](https://docs.google.com/presentation/d/121Og5d7W-JmFSMLGFWAUaWpGqewn53JoXZYRW30Evu8/edit?usp=sharing). Видео: поток 1, поток 2, поток 3.
-- [Презентация №2 — Компилятор](https://docs.google.com/presentation/d/13vybc88mDnOcXRtAnJkH7KGljDby_d4j9uEsRlpxa0g/edit?usp=sharing). Видео: поток 1, поток 2, поток 3.
-- [Презентация №3 — Основы C](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing). Видео: поток 1, поток 2, поток 3.
-- [Презентация №4 — Тесты](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing). Видео: поток 1, поток 2, поток 3.
+- [Презентация №1 — Вводная](https://docs.google.com/presentation/d/121Og5d7W-JmFSMLGFWAUaWpGqewn53JoXZYRW30Evu8/edit?usp=sharing). Видео: тут нет видео.
+- [Презентация №2 — Компилятор](https://docs.google.com/presentation/d/13vybc88mDnOcXRtAnJkH7KGljDby_d4j9uEsRlpxa0g/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/C06rqBcLQAGmJg), [поток 2](https://disk.yandex.ru/i/MTpH2loD3K1nfQ), [поток 3](https://disk.yandex.ru/i/6s_A3_IvHpfv3A).
+- [Презентация №3 — Основы C](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/cE2xoEQSVF-f7A), [поток 2](https://disk.yandex.ru/i/rHPJ1wAPvKYNnA), поток 3 (нет видео, я тогда опоздал и гнали).
+- [Презентация №4 — Тесты](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/ZlIqWdC1-zijKQ), [поток 2](https://disk.yandex.ru/i/DSpowt-Ex0VvNA), поток 3.
+- Презентация №5 – ...
 
 ## Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 ### Сlone не работает с паролем
