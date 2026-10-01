@@ -19,7 +19,7 @@
 - [#2 Первая программа на C](https://disk.yandex.ru/i/NLuEc9wsz-JAeg)
 - [#3.1 Делаем лабу](https://disk.yandex.ru/i/TZIoGJ3_KeTWsQ)
 - [#3.2 ASAP](https://disk.yandex.ru/i/PvEHeDGe3qHVNA)
-- [#4 Как чистить git историю, если случайно что-то не туда запушили](https://disk.yandex.ru/i/TPef3NE5kzOlJg)
+- [#4 Как чистить git историю, если случайно что-то не туда запушили](https://disk.yandex.ru/i/0-3ssasTKJGhHQ)
 
 ## Лекции
 
