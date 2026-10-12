@@ -31,6 +31,7 @@
 - [Презентация №3 — Основы C](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/cE2xoEQSVF-f7A), [поток 2](https://disk.yandex.ru/i/rHPJ1wAPvKYNnA), поток 3 (нет видео, я тогда опоздал и гнали).
 - [Презентация №4 — Тесты](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/ZlIqWdC1-zijKQ), [поток 2](https://disk.yandex.ru/i/DSpowt-Ex0VvNA), поток 3.
 - [Презентация №5 – Простые структуры данных](https://docs.google.com/presentation/d/15YW6ZI68PpN6vF9YYWPDcRQH_12jsu3GYvJocbUkTSI/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
+- [Презентация №6 - Коллекции](https://docs.google.com/presentation/d/1hE1NQyqDVF0Nj25I7JiPDgRnmriUNl3P_mpiixwZ5v8/edit?usp=sharing). Видео: поток 2, поток 3
 
 ## Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 ### Сlone не работает с паролем
