@@ -20,6 +20,7 @@
 - [#3.1 Делаем лабу](https://disk.yandex.ru/i/TZIoGJ3_KeTWsQ)
 - [#3.2 ASAP](https://disk.yandex.ru/i/PvEHeDGe3qHVNA)
 - [#4 Как чистить git историю, если случайно что-то не туда запушили](https://disk.yandex.ru/i/0-3ssasTKJGhHQ)
+- [#5 Как писать тесты через assert](https://disk.yandex.ru/d/lecSkRWg8kGd2w)
 
 ## Лекции
 
