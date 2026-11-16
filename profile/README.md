@@ -27,12 +27,22 @@
 [Таблица](https://docs.google.com/spreadsheets/d/1AhOwX8czbv8TFgcAmgL15xCg3JVVWYvz-lUTte6Kxlw/edit?usp=sharing) с доп. баллами.
 
 Презентации и лекции:
-- [Презентация №1 — Вводная](https://docs.google.com/presentation/d/121Og5d7W-JmFSMLGFWAUaWpGqewn53JoXZYRW30Evu8/edit?usp=sharing). Видео: тут нет видео.
-- [Презентация №2 — Компилятор](https://docs.google.com/presentation/d/13vybc88mDnOcXRtAnJkH7KGljDby_d4j9uEsRlpxa0g/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/C06rqBcLQAGmJg), [поток 2](https://disk.yandex.ru/i/MTpH2loD3K1nfQ), [поток 3](https://disk.yandex.ru/i/6s_A3_IvHpfv3A).
-- [Презентация №3 — Основы C](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/cE2xoEQSVF-f7A), [поток 2](https://disk.yandex.ru/i/rHPJ1wAPvKYNnA), поток 3 (нет видео, я тогда опоздал и гнали).
-- [Презентация №4 — Тесты](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/ZlIqWdC1-zijKQ), [поток 2](https://disk.yandex.ru/i/DSpowt-Ex0VvNA), поток 3.
-- [Презентация №5 – Простые структуры данных](https://docs.google.com/presentation/d/15YW6ZI68PpN6vF9YYWPDcRQH_12jsu3GYvJocbUkTSI/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
-- [Презентация №6 - Коллекции](https://docs.google.com/presentation/d/1hE1NQyqDVF0Nj25I7JiPDgRnmriUNl3P_mpiixwZ5v8/edit?usp=sharing). Видео: поток 2, поток 3
+- [Презентация №1 — Вводная (07.09.2026)](https://docs.google.com/presentation/d/121Og5d7W-JmFSMLGFWAUaWpGqewn53JoXZYRW30Evu8/edit?usp=sharing). Видео: тут нет видео.
+- [Презентация №2 — Компилятор (14.09.2026)](https://docs.google.com/presentation/d/13vybc88mDnOcXRtAnJkH7KGljDby_d4j9uEsRlpxa0g/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/C06rqBcLQAGmJg), [поток 2](https://disk.yandex.ru/i/MTpH2loD3K1nfQ), [поток 3](https://disk.yandex.ru/i/6s_A3_IvHpfv3A).
+- [Презентация №3 — Основы C (21.09.2026)](https://docs.google.com/presentation/d/1KChqvYQrlV6dtz4xB4016Rvfh7omIdv5ierOtdXTeAY/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/cE2xoEQSVF-f7A), [поток 2](https://disk.yandex.ru/i/rHPJ1wAPvKYNnA), поток 3 (нет видео, я тогда опоздал и гнали).
+- [Презентация №4 — Тесты (28.09.2026)](https://docs.google.com/presentation/d/19__08NCEkpObIMLUWszN-bzB2WN132e_3Dc5joZI4YU/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/ZlIqWdC1-zijKQ), [поток 2](https://disk.yandex.ru/i/DSpowt-Ex0VvNA), поток 3.
+- [Презентация №5 – Простые структуры данных (05.10.2026)](https://docs.google.com/presentation/d/15YW6ZI68PpN6vF9YYWPDcRQH_12jsu3GYvJocbUkTSI/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
+- [Презентация №6 - Коллекции (12.10.2026)](https://docs.google.com/presentation/d/1hE1NQyqDVF0Nj25I7JiPDgRnmriUNl3P_mpiixwZ5v8/edit?usp=sharing). Видео: поток 2, поток 3
+- [Презентация №7 - Хеш-таблица 1 от Владоса (19.10.2026)](https://docs.google.com/presentation/d/1LUP1ZF2UGNJhFMDE-Tm6kZcBqDjKtYSBuDv-EcfAeT0/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
+- [Презентация №8 - Хеш-таблица 2 от Владоса (26.10.2026)](https://docs.google.com/presentation/d/10AhZ2nWugImXD3NBRM5vVatbipqXjHIvmSH1-LJwMRk/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
+- [Презентация №9 - Еще хеш-таблица + асимптотика (2.11.2026)](https://docs.google.com/presentation/d/1V2My6e0h_CvVMsu_UFRpJM7Jzci8z9-rEozk1mRwsmQ/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
+- [Презентация №10 - Сортировки (9.11.2026)](https://docs.google.com/presentation/d/1c4B_Fiuhw3cZLSXgAan2jApfL9nRmqYIxvkNc4J-Gwk/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
+- [Презентация №11 - NP-полные задачи (16.11.2026)](https://docs.google.com/presentation/d/1zjOtbw4P5F-M1J2MPFIFZiCeSbHwe3wGoB_WMiJcbLo/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
+- Презентация №12 - Разделяй и властвуй (23.11.2026)
+- Презентация №13 - Дин. прога (30.11.2026)
+- Презентация №14 - NP-полные задачи (07.12.2026)
+- Презентация №15 - Жадники (14.12.2026)
+- Презентация №16 - Матроиды (21.12.2026)
 
 ## Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 ### Сlone не работает с паролем
