@@ -38,11 +38,11 @@
 - [Презентация №9 - Еще хеш-таблица + асимптотика (02.11.2026)](https://docs.google.com/presentation/d/1V2My6e0h_CvVMsu_UFRpJM7Jzci8z9-rEozk1mRwsmQ/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/bq86iGSG1p_rWA), поток 2, поток 3
 - [Презентация №10 - Сортировки (9.11.2026)](https://docs.google.com/presentation/d/1c4B_Fiuhw3cZLSXgAan2jApfL9nRmqYIxvkNc4J-Gwk/edit?usp=sharing). Видео: поток 1, [поток 2](https://disk.yandex.ru/i/e7ndyx34YX2k-A), [поток 3](https://disk.yandex.ru/i/fJRnYntRmTMf7w)
 - [Презентация №11 - NP-полные задачи (16.11.2026)](https://docs.google.com/presentation/d/1zjOtbw4P5F-M1J2MPFIFZiCeSbHwe3wGoB_WMiJcbLo/edit?usp=sharing). Видео: [поток 1](https://disk.yandex.ru/i/ZGe1f8vpBY_x3g), [поток 2](https://disk.yandex.ru/i/v0XKQw2X8mtIfQ), [поток 3](https://disk.yandex.ru/i/IQAb8_sfBkEjIA)
-- Презентация №12 - Разделяй и властвуй (23.11.2026)
+- [Презентация №12 - Разделяй и властвуй (23.11.2026)](https://docs.google.com/presentation/d/1MqQDMRzVbmB9H2389XOxJJIjTqoZoBOzxE2cNP5SZN4/edit?usp=sharing). Видео: поток 1, поток 2, поток 3
 - Презентация №13 - Дин. прога (30.11.2026)
-- Презентация №14 - NP-полные задачи (07.12.2026)
-- Презентация №15 - Жадники (14.12.2026)
-- Презентация №16 - Матроиды (21.12.2026)
+- Презентация №14 - Жадники (07.12.2026)
+- Презентация №15 - Матроиды (14.12.2026)
+- Презентация №16 - ? (21.12.2026)
 
 ## Лабораторные работы создаются автоматически из шаблона и должны быть доступны как ваши репозитории в этой организации
 ### Сlone не работает с паролем
